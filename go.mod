@@ -1,4 +1,4 @@
-module tailscale.com
+module github.com/Kela-Systems/tailscale
 
 go 1.25.3
 
